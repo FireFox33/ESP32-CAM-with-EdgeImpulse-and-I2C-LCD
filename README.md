@@ -4,3 +4,4 @@
 ![Alt text](images/example.png)
 
 The code is a modified EdgeImpulse example code specifically for ESP32-CAM module (not for ESP-EYE or any other platforms)
+Also use an I2C display with external I2C convertor chip.
